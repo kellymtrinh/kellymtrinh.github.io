@@ -1,6 +1,5 @@
-# Kelly's Reading List
-
 ## To Read
+
 - Originals: How Non-Conformists Move the World
 - Option B
 - That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea
@@ -10,29 +9,31 @@
 - Becoming
 - The Signal and the Noise: Why So Many Predictions Fail-but Some Don't
 - The Library Book
-- The Alice Network 
+- The Alice Network
 - The Body: A Guide for Occupants
 - The Seven Husbands of Evelyn Hugo
 
 ## To read (but not in one go)
+
 - Structure and Interpretation of Computer Programs
 - Designing Data-Intensive Applications
 
 ## Read
-| Title | Mood |
-| ----------- | ----------- |
-| One Day in December | 🥰 |
-| The Song of Achilles | 😭💔|
-| Circe | 😭💔|
-| One Day in December | 🥰 |
-| Daring Greatly |🤞|
-| Star-Crossed| 😗|
+
+| Title                | Mood |
+| -------------------- | ---- |
+| One Day in December  | 🥰   |
+| The Song of Achilles | 😭💔 |
+| Circe                | 😭💔 |
+| One Day in December  | 🥰   |
+| Daring Greatly       | 🤞   |
+| Star-Crossed         | 😗   |
 
 ### To revisit someday
+
 - Crucial Conversations
 - Daring Greatly
 - The Making of a Manager
 - Radical Candor
-
 
 [Libby](https://www.overdrive.com/apps/libby/)
